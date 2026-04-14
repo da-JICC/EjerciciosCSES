@@ -9,3 +9,4 @@ Soluciones a problemas vistos en [cses](cses.fi) programados en C++.
 - *Repetitions* ([Enunciado](https://cses.fi/problemset/task/1069), [Solución](/introductory-problems//repetitions.cpp))
 - *Increasing Array* ([Enunciado](https://cses.fi/problemset/task/1094), [Solución](/introductory-problems//increasingArray.cpp))
 - *Permutations* ([Enunciado](https://cses.fi/problemset/task/1070), [Solución](/introductory-problems//permutations.cpp))
+- *Number Spiral* ([Enunciado](https://cses.fi/problemset/task/1071), [Solución](/introductory-problems//numberSpiral.cpp))
