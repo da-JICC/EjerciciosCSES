@@ -12,3 +12,4 @@ Soluciones a problemas vistos en [cses](cses.fi) programados en C++.
 - *Number Spiral* ([Enunciado](https://cses.fi/problemset/task/1071), [Solución](/introductory-problems/numberSpiral.cpp))
 - *Two Knights* ([Enunciado](https://cses.fi/problemset/task/1072), [Solución](/introductory-problems/twoKnights.cpp)
 - *Two Sets* ([Enunciado](https://cses.fi/problemset/task/1092), [Solución](/introductory-problems/twoSets.cpp))
+- *Bit Strings* ([Enunciado](https://cses.fi/problemset/task/1617/), [Solución](/introductory-problems/bitStrings.cpp))
