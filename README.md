@@ -15,4 +15,4 @@ Soluciones a problemas vistos en [cses](https://cses.fi/) programados en C++.
 - *Bit Strings* ([Enunciado](https://cses.fi/problemset/task/1617/), [Solución](/introductory-problems/bitStrings.cpp))
 - *Trailing Zeros* ([Enunciado](https://cses.fi/problemset/task/1618/), [Solución](/introductory-problems/trailingZeros.cpp))
 - *Coin Piles* ([Enunciado](https://cses.fi/problemset/task/1754/), [Solución](/introductory-problems/coinPiles.cpp))
-- *Palindrome Reorder* ([Enunciado](https://cses.fi/problemset/task/1755/), [Solución](/introductory-problems/palindromeReorder))
+- *Palindrome Reorder* ([Enunciado](https://cses.fi/problemset/task/1755/), [Solución](/introductory-problems/palindromeReorder.cpp))
