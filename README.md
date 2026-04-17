@@ -10,7 +10,7 @@ Soluciones a problemas vistos en [cses](https://cses.fi/) programados en C++.
 - *Increasing Array* ([Enunciado](https://cses.fi/problemset/task/1094), [Solución](/introductory-problems/increasingArray.cpp))
 - *Permutations* ([Enunciado](https://cses.fi/problemset/task/1070), [Solución](/introductory-problems/permutations.cpp))
 - *Number Spiral* ([Enunciado](https://cses.fi/problemset/task/1071), [Solución](/introductory-problems/numberSpiral.cpp))
-- *Two Knights* ([Enunciado](https://cses.fi/problemset/task/1072), [Solución](/introductory-problems/twoKnights.cpp)
+- *Two Knights* ([Enunciado](https://cses.fi/problemset/task/1072), [Solución](/introductory-problems/twoKnights.cpp))
 - *Two Sets* ([Enunciado](https://cses.fi/problemset/task/1092), [Solución](/introductory-problems/twoSets.cpp))
 - *Bit Strings* ([Enunciado](https://cses.fi/problemset/task/1617/), [Solución](/introductory-problems/bitStrings.cpp))
 - *Trailing Zeros* ([Enunciado](https://cses.fi/problemset/task/1618/), [Solución](/introductory-problems/trailingZeros.cpp))
