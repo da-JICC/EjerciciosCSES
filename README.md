@@ -16,3 +16,4 @@ Soluciones a problemas vistos en [cses](https://cses.fi/) programados en C++.
 - *Trailing Zeros* ([Enunciado](https://cses.fi/problemset/task/1618/), [Solución](/introductory-problems/trailingZeros.cpp))
 - *Coin Piles* ([Enunciado](https://cses.fi/problemset/task/1754/), [Solución](/introductory-problems/coinPiles.cpp))
 - *Palindrome Reorder* ([Enunciado](https://cses.fi/problemset/task/1755/), [Solución](/introductory-problems/palindromeReorder.cpp))
+- *Gray Code* ([Enunciado](https://cses.fi/problemset/task/2205), [Solución](/introductory-problems/grayCode.cpp))
