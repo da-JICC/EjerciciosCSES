@@ -19,3 +19,4 @@ Soluciones a problemas vistos en [cses](https://cses.fi/) programados en C++.
 - *Gray Code* ([Enunciado](https://cses.fi/problemset/task/2205), [Solución](/introductory-problems/grayCode.cpp))
 - *Tower of Hanoi* ([Enunciado](https://cses.fi/problemset/task/2165))
 - *Creating Strings* ([Enunciado](https://cses.fi/problemset/task/1622), [Solución](/introductory-problems/creatingStrings.cpp), [Solución Alternativa](/introductory-problems/creatingStringsPermutation.cpp))
+- *Apple Division* ([Enunciado](https://cses.fi/problemset/task/1623/), [Solución](/introductory-problems/appleDivision.cpp), [Solución Alternativa](/introductory-problems/appleDivisionBacktrack.cpp))
