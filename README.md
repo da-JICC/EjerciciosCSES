@@ -21,3 +21,7 @@ Soluciones a problemas vistos en [cses](https://cses.fi/) programados en C++.
 - *Creating Strings* ([Enunciado](https://cses.fi/problemset/task/1622), [Solución](/introductory-problems/creatingStrings.cpp), [Solución Alternativa](/introductory-problems/creatingStringsPermutation.cpp))
 - *Apple Division* ([Enunciado](https://cses.fi/problemset/task/1623/), [Solución](/introductory-problems/appleDivision.cpp), [Solución Alternativa](/introductory-problems/appleDivisionBacktrack.cpp))
 - *Chessboard and Queens* ([Enunciado](https://cses.fi/problemset/task/1624), [Solución](/introductory-problems//chessboardAndQueens.cpp))
+
+
+## Sorting and Searching
+- *Distinct Numbers* ([Enunciado](https://cses.fi/problemset/task/1621), [Solución](/sorting-and-searching/distinctNumbers.cpp))
