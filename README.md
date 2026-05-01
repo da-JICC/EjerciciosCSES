@@ -1,6 +1,6 @@
 # Soluciones CSES
 
-Soluciones a problemas vistos en [cses](https://cses.fi/) programados en C++.
+Soluciones a problemas vistos en [CSES](https://cses.fi/) programados en C++.
 
 ## Introductory Problems
 
