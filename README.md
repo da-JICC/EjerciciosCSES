@@ -25,3 +25,4 @@ Soluciones a problemas vistos en [CSES](https://cses.fi/) programados en C++.
 
 ## Sorting and Searching
 - *Distinct Numbers* ([Enunciado](https://cses.fi/problemset/task/1621), [Solución](/sorting-and-searching/distinctNumbers.cpp))
+- *Apartments* ([Enunciado](https://cses.fi/problemset/task/1084/), [Solución](/sorting-and-searching/apartaments.cpp))
