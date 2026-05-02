@@ -27,3 +27,4 @@ Soluciones a problemas vistos en [CSES](https://cses.fi/) programados en C++.
 - *Distinct Numbers* ([Enunciado](https://cses.fi/problemset/task/1621), [Solución](/sorting-and-searching/distinctNumbers.cpp))
 - *Apartments* ([Enunciado](https://cses.fi/problemset/task/1084/), [Solución](/sorting-and-searching/apartaments.cpp))
 - *Ferris Wheel* ([Enunciado](https://cses.fi/problemset/task/1090), [Solución](/sorting-and-searching/ferrisWheel.cpp))
+- *Concert Tickets* ([Enunciado](https://cses.fi/problemset/task/1091), [Solución](/sorting-and-searching/concertTickets.cpp))
