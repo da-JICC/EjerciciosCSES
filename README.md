@@ -17,7 +17,7 @@ Soluciones a problemas vistos en [CSES](https://cses.fi/) programados en C++.
 - *Coin Piles* ([Enunciado](https://cses.fi/problemset/task/1754/), [Solución](/introductory-problems/coinPiles.cpp))
 - *Palindrome Reorder* ([Enunciado](https://cses.fi/problemset/task/1755/), [Solución](/introductory-problems/palindromeReorder.cpp))
 - *Gray Code* ([Enunciado](https://cses.fi/problemset/task/2205), [Solución](/introductory-problems/grayCode.cpp))
-- *Tower of Hanoi* ([Enunciado](https://cses.fi/problemset/task/2165))
+- *Tower of Hanoi* ([Enunciado](https://cses.fi/problemset/task/2165), [Solución](/introductory-problems/towerOfHanoi.cpp))
 - *Creating Strings* ([Enunciado](https://cses.fi/problemset/task/1622), [Solución](/introductory-problems/creatingStrings.cpp), [Solución Alternativa](/introductory-problems/creatingStringsPermutation.cpp))
 - *Apple Division* ([Enunciado](https://cses.fi/problemset/task/1623/), [Solución](/introductory-problems/appleDivision.cpp), [Solución Alternativa](/introductory-problems/appleDivisionBacktrack.cpp))
 - *Chessboard and Queens* ([Enunciado](https://cses.fi/problemset/task/1624), [Solución](/introductory-problems//chessboardAndQueens.cpp))
