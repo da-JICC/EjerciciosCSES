@@ -3,3 +3,4 @@
 !*.cpp
 !*.md
 !Makefile
+template.cpp
