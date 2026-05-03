@@ -23,6 +23,7 @@ Soluciones a problemas vistos en [CSES](https://cses.fi/) programados en C++.
 | [Creating Strings](https://cses.fi/problemset/task/1622) | [Solución](/introductory-problems/creatingStrings.cpp) <br> [Alternativa](/introductory-problems/creatingStringsPermutation.cpp) |
 | [Apple Division](https://cses.fi/problemset/task/1623/) | [Solución](/introductory-problems/appleDivision.cpp) <br> [Alternativa](/introductory-problems/appleDivisionBacktrack.cpp) |
 | [Chessboard and Queens](https://cses.fi/problemset/task/1624) | [Solución](/introductory-problems/chessboardAndQueens.cpp) |
+| [Raab Game I](https://cses.fi/problemset/task/3399/) | [Solución](/introductory-problems/raabGame1.cpp) |
 
 ## Sorting and Searching
 
