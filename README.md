@@ -25,6 +25,8 @@ Soluciones a problemas vistos en [CSES](https://cses.fi/) programados en C++.
 | [Chessboard and Queens](https://cses.fi/problemset/task/1624) | [Solución](/introductory-problems/chessboardAndQueens.cpp) |
 | [Raab Game I](https://cses.fi/problemset/task/3399) | [Solución](/introductory-problems/raabGame1.cpp) |
 | [Mex Grid Construction](https://cses.fi/problemset/task/3419) | [Solución](/introductory-problems/mexGridConstruction.cpp) |
+| [Grid Coloring I](https://cses.fi/problemset/task/3311/) | [Solución](/introductory-problems/gridColoring1.cpp) |
+
 
 ## Sorting and Searching
 
